@@ -13,6 +13,7 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
+              <img href = "C:\Users\OWAIS RAFIQ\Downloads\Portfolio-new\Portfolio-master\src\Assets\airplane.png"/>
               <h1 style={{ paddingBottom: 15 }} className="heading">
                 Hi There!{" "}
                 <span className="wave" role="img" aria-labelledby="wave">

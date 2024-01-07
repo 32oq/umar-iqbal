@@ -106,7 +106,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https.32oq.github.io/umar-iqbal"
+                href="/"
                 target="_blank"
                 className="fork-btn-inner"
               >
